@@ -6,4 +6,4 @@ Day-2_Assignment
 
 Question-1
 
-                    Create amenu bar.
+                    Create a menu bar.
