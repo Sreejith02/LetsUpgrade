@@ -2,7 +2,7 @@ LetsUpgrade
 
 Build Responsive Website Zero to Hero | Sep 2021
 
-Day-2_Assignment
+Day-2 & Day-3_Assignment
 
 Question-1
 
