@@ -6,6 +6,6 @@ Day-1_Assignment
 
 Question-1
            
-    Create a Responsive Navigation by reffering the video.
+    Create a Responsive Navigation .
                     
                     
