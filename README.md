@@ -1,6 +1,6 @@
 # LetsUpgrade
 
-# Assigments of the programs
+# Assignments of the programs
 
 - Data Structure and Algorithms with C++ | Sep 2021
 
