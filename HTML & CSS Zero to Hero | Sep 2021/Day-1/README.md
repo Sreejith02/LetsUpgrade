@@ -2,7 +2,7 @@
 
 ## HTML & CSS Zero to Hero| Sep 2021
 
-### Assignment-1
+### Day-1_Assignment
 
 ```
 Question-1
