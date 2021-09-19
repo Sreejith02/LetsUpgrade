@@ -7,17 +7,13 @@
 Question-1
 
 Mention the difference between interpreter and compiler.
+```
+| Compiler | Interpreter |
+| ------------- | ------------- |
+|  |  |
+|  |  |
 
-Compiler | Interpreter
----------|------------
-1.compile| 1.
-2.secind| 2.
-3.| 3.
-4.| 4.
-5.| 5.
-6.| 6.
-
-
+```
 Question-2
 
 Define a class Student with following members:
