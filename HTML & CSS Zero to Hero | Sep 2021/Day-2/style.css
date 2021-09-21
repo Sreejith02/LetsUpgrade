@@ -1,0 +1,50 @@
+*{
+  margin:0px;
+  padding: 0px;
+  border:0px;
+}
+
+.one
+{
+  height: 300px;
+  width: 100%;
+  background-color: blue;
+}
+.one_child
+{
+  height: 200px;
+  width: 25%;
+  background-color: yellow;
+  display: inline-block;
+  margin-left: 6%;
+  margin-top:50px;
+}
+
+.two
+{
+  height: 200px;
+  width: 100%;
+  background-color: red;
+}
+.two_child
+{
+  height: 180px;
+  width: 47%;
+  background-color: white;
+  display: inline-block;
+  margin-top:10px;
+  margin-left:2%;
+}
+
+.three
+{
+  height: auto;
+  width: 100%;
+  background-color:green;
+}
+.three_child
+{
+  height: auto;
+  width: 49%;
+  display: inline-block;
+}
