@@ -1,0 +1,21 @@
+*{
+	padding :0px;
+	margin:0px;
+	border:0px;
+}
+.main{
+	width:100%;
+	background-color: blue;
+}
+.main_child{
+	height:200px;
+	width:24.6%;
+	background-color: red;
+	display: inline-block;
+}
+@media (max-width:420px){
+  .main_child{
+    width:100%;
+  }	
+	
+}
