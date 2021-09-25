@@ -13,6 +13,9 @@
 	background-color: red;
 	display: inline-block;
 }
+
+/* media queries for mobile  */
+
 @media (max-width:420px){
   .main_child{
     width:100%;
