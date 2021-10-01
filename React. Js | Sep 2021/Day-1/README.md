@@ -4,6 +4,5 @@
 
 ### Day-1 Assignment
 ```
-Create 3 components and display on the web page one
-of it should be a class component. 
+Create 3 components and display on the web page. ne of it should be a class component. 
 ```
