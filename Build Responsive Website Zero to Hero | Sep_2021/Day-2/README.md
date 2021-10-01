@@ -4,5 +4,5 @@
 
 ### Day-2 Assignment 
 ```
-Create a responsive navigation 
+Create a responsive navigation. 
 ```
